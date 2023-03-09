@@ -1,4 +1,4 @@
-This project prepared for working on Social Analytics which need to work on different social media platform such as YouTube, Facebook, Instagram, Reddit and LinkedIn to scrap the comments from these social media platforms using keywords.
+## This project prepared for working on Social Analytics which need to work on different social media platform such as YouTube, Facebook, Instagram, Reddit and LinkedIn to scrap the comments from these social media platforms using keywords.
 
 ## How to install the requirements for running youtube
 
