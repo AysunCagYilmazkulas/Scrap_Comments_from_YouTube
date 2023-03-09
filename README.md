@@ -24,7 +24,8 @@ pip install -r requirements.txt
 
 <li><strong> 'buying_signal_youtube.ipynb' </strong> </li>
 <ul> This file responsible for cleaning the data , drop the duplicates data and make the buying signal the output writen in buying_signal_youtube.csv </ul>
-![Screenshot 2023-01-24 at 7.33.14 PM.png](Screenshot 2023-01-24 at 7.33.14 PM.png)
+
+<img width="1186" alt="Screenshot 2023-01-24 at 7 33 14 PM" src="https://user-images.githubusercontent.com/63105388/224153835-e3ddc99c-7821-4895-acd4-4a73f164fe2d.png">
 
 # How to run the code
 <ul>
